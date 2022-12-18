@@ -1,0 +1,15 @@
+E:\visual std\perfect\perfect\bin\Debug\net6.0\perfect.exe
+E:\visual std\perfect\perfect\bin\Debug\net6.0\perfect.deps.json
+E:\visual std\perfect\perfect\bin\Debug\net6.0\perfect.runtimeconfig.json
+E:\visual std\perfect\perfect\bin\Debug\net6.0\perfect.dll
+E:\visual std\perfect\perfect\bin\Debug\net6.0\perfect.pdb
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.csproj.AssemblyReference.cache
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.AssemblyInfoInputs.cache
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.AssemblyInfo.cs
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.csproj.CoreCompileInputs.cache
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.dll
+E:\visual std\perfect\perfect\obj\Debug\net6.0\refint\perfect.dll
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.pdb
+E:\visual std\perfect\perfect\obj\Debug\net6.0\perfect.genruntimeconfig.cache
+E:\visual std\perfect\perfect\obj\Debug\net6.0\ref\perfect.dll

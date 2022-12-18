@@ -1,0 +1,15 @@
+E:\visual std\prime\prime\bin\Debug\net6.0\prime.exe
+E:\visual std\prime\prime\bin\Debug\net6.0\prime.deps.json
+E:\visual std\prime\prime\bin\Debug\net6.0\prime.runtimeconfig.json
+E:\visual std\prime\prime\bin\Debug\net6.0\prime.dll
+E:\visual std\prime\prime\bin\Debug\net6.0\prime.pdb
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.csproj.AssemblyReference.cache
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.AssemblyInfoInputs.cache
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.AssemblyInfo.cs
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.csproj.CoreCompileInputs.cache
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.dll
+E:\visual std\prime\prime\obj\Debug\net6.0\refint\prime.dll
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.pdb
+E:\visual std\prime\prime\obj\Debug\net6.0\prime.genruntimeconfig.cache
+E:\visual std\prime\prime\obj\Debug\net6.0\ref\prime.dll
